@@ -1,13 +1,14 @@
 # ⚠️ Documents déprieciés
-Les differentes pages de ce wiki sont a l'heure actuelles non maintenues.
-Nous avons cependants décidé de les laisser accessible en l'état dans le cas ou certaines informations pourrait etre utile mais ces documents peuvent contenir des informations fausses, dépassés ou éronées. 
+Les différentes pages de ce wiki sont a l'heure actuelle non maintenues.
+Nous avons cependant décidé de les laisser accessible en l'état dans le cas où certaines informations pourraient être utiles, cependant ces documents peuvent contenir des informations fausses, dépassés ou éronées. 
 
-Afin de vous apporter une documentation utile et de qualité, nous avons décidé de reflechir en interne a une nouvelle documentation.
+Afin de vous apporter une documentation utile et de qualité, nous avons décidé de réfléchir en interne a une nouvelle plateforme de connaissances.
 
-Si vous avez des questions, des suggestions ou encore que vous souhaitez contribuez a cette nouvelle documentation,
+Si vous avez des questions, des suggestions ou si vous souhaitez contribuez à cette nouvelle documentation,
 vous pouvez nous contacter [sur le salon de discussion](https://chat.unixcorn.org), [sur le forum de discussion](https://forum.unixcorn.org), ou par [email](mailto:root@unixcorn.org).
 
 Merci de votre compréhension.
+
 
 ----
 
